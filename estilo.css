@@ -20,7 +20,7 @@ img {
     top: -3rem; /* Move a imagem um pouco para cima */
     left: 50%;
     transform: translateX(-50%);
-    width: 6rem;
+    width: 5rem;
     height: auto;
 }
 
